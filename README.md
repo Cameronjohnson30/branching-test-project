@@ -9,7 +9,7 @@ Technologies Used
 HMTL
 CSS
 Markdown
-Description This website displays a practice about branching It was constructed with the guidance of Epicodus and was co-authored by a classmate Shelby Trodden, and Todd Pangilinan. The website does not currently incorporate javascript or associated libraries.
+Description This website displays a practice about branching It was constructed with the guidance of Epicodus and was co-authored by a classmate Cameron Ray. The website does not currently incorporate javascript or associated libraries.
 
 Setup/Installation Requirements
 
